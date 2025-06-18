@@ -2,7 +2,7 @@
 
 Welcome to my responsive and SEO-optimized personal portfolio website! I'm **Techie Kim**, a passionate software engineering student and full-stack developer based in Nairobi, Kenya. This portfolio showcases my skills, projects, experience, and blog posts in a clean, modern interface.
 
-Live Site: [🔗 View Portfolio on Netlify](https://your-netlify-link.netlify.app)
+Live Site: [🔗 View Portfolio on Netlify]([https://your-netlify-link.netlify.app](https://techiekim-web.netlify.app/)
 
   ## 🎯 Objective
 
@@ -29,7 +29,7 @@ The aim of this project is to build a **production-ready, mobile-first** portfol
 - **MySQL** for blog or contact data (optional)
 
 ### Deployment
-- **Frontend**: [Netlify](https://www.netlify.com/)
+- **Frontend**: [Netlify]([https://www.netlify.com/](https://techiekim-web.netlify.app)
 - **Domain**: (optional, via Namecheap/Cloudflare)
 
 ## ✨ Key Features
